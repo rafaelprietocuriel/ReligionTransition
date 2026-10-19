@@ -1,0 +1,397 @@
+COUNTRY,STATE,TOTAL,RELIGION,YEAR
+Mexico,National,63285027,CATOLIC,1990
+Mexico,Aguascalientes,602122,CATOLIC,1990
+Mexico,Baja California,1228290,CATOLIC,1990
+Mexico,Baja California Sur,255024,CATOLIC,1990
+Mexico,Campeche,348369,CATOLIC,1990
+Mexico,Coahuila de Zaragoza,1530436,CATOLIC,1990
+Mexico,Colima,353805,CATOLIC,1990
+Mexico,Chiapas,1832887,CATOLIC,1990
+Mexico,Chihuahua,1845928,CATOLIC,1990
+Mexico,Ciudad de México,6814434,CATOLIC,1990
+Mexico,Durango,1076220,CATOLIC,1990
+Mexico,Guanajuato,3284809,CATOLIC,1990
+Mexico,Guerrero,2006165,CATOLIC,1990
+Mexico,Hidalgo,1493473,CATOLIC,1990
+Mexico,Jalisco,4424442,CATOLIC,1990
+Mexico,México,7947150,CATOLIC,1990
+Mexico,Michoacán de Ocampo,2873338,CATOLIC,1990
+Mexico,Morelos,907322,CATOLIC,1990
+Mexico,Nayarit,664206,CATOLIC,1990
+Mexico,Nuevo León,2466194,CATOLIC,1990
+Mexico,Oaxaca,2256777,CATOLIC,1990
+Mexico,Puebla,3292231,CATOLIC,1990
+Mexico,Querétaro,866563,CATOLIC,1990
+Mexico,Quintana Roo,321031,CATOLIC,1990
+Mexico,San Luis Potosí,1590916,CATOLIC,1990
+Mexico,Sinaloa,1676403,CATOLIC,1990
+Mexico,Sonora,1441309,CATOLIC,1990
+Mexico,Tabasco,929547,CATOLIC,1990
+Mexico,Tamaulipas,1698917,CATOLIC,1990
+Mexico,Tlaxcala,624133,CATOLIC,1990
+Mexico,Veracruz de Ignacio de la Llave,4559230,CATOLIC,1990
+Mexico,Yucatán,1019814,CATOLIC,1990
+Mexico,Zacatecas,1053542,CATOLIC,1990
+Mexico,National,4526751,PROTESTANT,1990
+Mexico,Aguascalientes,10159,PROTESTANT,1990
+Mexico,Baja California,122174,PROTESTANT,1990
+Mexico,Baja California Sur,11877,PROTESTANT,1990
+Mexico,Campeche,72176,PROTESTANT,1990
+Mexico,Coahuila de Zaragoza,139308,PROTESTANT,1990
+Mexico,Colima,11613,PROTESTANT,1990
+Mexico,Chiapas,493175,PROTESTANT,1990
+Mexico,Chihuahua,176263,PROTESTANT,1990
+Mexico,Ciudad de México,371715,PROTESTANT,1990
+Mexico,Durango,57775,PROTESTANT,1990
+Mexico,Guanajuato,53613,PROTESTANT,1990
+Mexico,Guerrero,121624,PROTESTANT,1990
+Mexico,Hidalgo,94102,PROTESTANT,1990
+Mexico,Jalisco,100589,PROTESTANT,1990
+Mexico,México,449036,PROTESTANT,1990
+Mexico,Michoacán de Ocampo,73945,PROTESTANT,1990
+Mexico,Morelos,101888,PROTESTANT,1990
+Mexico,Nayarit,24951,PROTESTANT,1990
+Mexico,Nuevo León,212536,PROTESTANT,1990
+Mexico,Oaxaca,212422,PROTESTANT,1990
+Mexico,Puebla,191783,PROTESTANT,1990
+Mexico,Querétaro,18087,PROTESTANT,1990
+Mexico,Quintana Roo,60958,PROTESTANT,1990
+Mexico,San Luis Potosí,87443,PROTESTANT,1990
+Mexico,Sinaloa,77562,PROTESTANT,1990
+Mexico,Sonora,86824,PROTESTANT,1990
+Mexico,Tabasco,222283,PROTESTANT,1990
+Mexico,Tamaulipas,193250,PROTESTANT,1990
+Mexico,Tlaxcala,29365,PROTESTANT,1990
+Mexico,Veracruz de Ignacio de la Llave,494773,PROTESTANT,1990
+Mexico,Yucatán,125771,PROTESTANT,1990
+Mexico,Zacatecas,27711,PROTESTANT,1990
+Mexico,National,2288234,NONE,1990
+Mexico,Aguascalientes,4831,NONE,1990
+Mexico,Baja California,64343,NONE,1990
+Mexico,Baja California Sur,7183,NONE,1990
+Mexico,Campeche,32573,NONE,1990
+Mexico,Coahuila de Zaragoza,53379,NONE,1990
+Mexico,Colima,4957,NONE,1990
+Mexico,Chiapas,344896,NONE,1990
+Mexico,Chihuahua,83293,NONE,1990
+Mexico,Ciudad de México,160363,NONE,1990
+Mexico,Durango,30136,NONE,1990
+Mexico,Guanajuato,34518,NONE,1990
+Mexico,Guerrero,76914,NONE,1990
+Mexico,Hidalgo,27354,NONE,1990
+Mexico,Jalisco,37097,NONE,1990
+Mexico,México,123992,NONE,1990
+Mexico,Michoacán de Ocampo,57893,NONE,1990
+Mexico,Morelos,35148,NONE,1990
+Mexico,Nayarit,16586,NONE,1990
+Mexico,Nuevo León,61158,NONE,1990
+Mexico,Oaxaca,104467,NONE,1990
+Mexico,Puebla,56509,NONE,1990
+Mexico,Querétaro,7842,NONE,1990
+Mexico,Quintana Roo,26468,NONE,1990
+Mexico,San Luis Potosí,32300,NONE,1990
+Mexico,Sinaloa,155679,NONE,1990
+Mexico,Sonora,58506,NONE,1990
+Mexico,Tabasco,124162,NONE,1990
+Mexico,Tamaulipas,72881,NONE,1990
+Mexico,Tlaxcala,6424,NONE,1990
+Mexico,Veracruz de Ignacio de la Llave,336080,NONE,1990
+Mexico,Yucatán,36146,NONE,1990
+Mexico,Zacatecas,14156,NONE,1990
+Mexico,National,74612373,CATOLIC,2000
+Mexico,Aguascalientes,785614,CATOLIC,2000
+Mexico,Baja California,1637088,CATOLIC,2000
+Mexico,Baja California Sur,333156,CATOLIC,2000
+Mexico,Campeche,432457,CATOLIC,2000
+Mexico,Coahuila de Zaragoza,1743978,CATOLIC,2000
+Mexico,Colima,425954,CATOLIC,2000
+Mexico,Chiapas,2099240,CATOLIC,2000
+Mexico,Chihuahua,2218719,CATOLIC,2000
+Mexico,Ciudad de México,6999402,CATOLIC,2000
+Mexico,Durango,1142324,CATOLIC,2000
+Mexico,Guanajuato,3904423,CATOLIC,2000
+Mexico,Guerrero,2359763,CATOLIC,2000
+Mexico,Hidalgo,1791931,CATOLIC,2000
+Mexico,Jalisco,5285970,CATOLIC,2000
+Mexico,México,10122231,CATOLIC,2000
+Mexico,Michoacán de Ocampo,3297059,CATOLIC,2000
+Mexico,Morelos,1116040,CATOLIC,2000
+Mexico,Nayarit,748579,CATOLIC,2000
+Mexico,Nuevo León,2982592,CATOLIC,2000
+Mexico,Oaxaca,2561601,CATOLIC,2000
+Mexico,Puebla,3973386,CATOLIC,2000
+Mexico,Querétaro,1166221,CATOLIC,2000
+Mexico,Quintana Roo,552745,CATOLIC,2000
+Mexico,San Luis Potosí,1848808,CATOLIC,2000
+Mexico,Sinaloa,1946228,CATOLIC,2000
+Mexico,Sonora,1718889,CATOLIC,2000
+Mexico,Tabasco,1172469,CATOLIC,2000
+Mexico,Tamaulipas,2012177,CATOLIC,2000
+Mexico,Tlaxcala,791284,CATOLIC,2000
+Mexico,Veracruz de Ignacio de la Llave,5070065,CATOLIC,2000
+Mexico,Yucatán,1241108,CATOLIC,2000
+Mexico,Zacatecas,1130872,CATOLIC,2000
+Mexico,National,6466522,PROTESTANT,2000
+Mexico,Aguascalientes,23009,PROTESTANT,2000
+Mexico,Baja California,218574,PROTESTANT,2000
+Mexico,Baja California Sur,23067,PROTESTANT,2000
+Mexico,Campeche,109504,PROTESTANT,2000
+Mexico,Coahuila de Zaragoza,175342,PROTESTANT,2000
+Mexico,Colima,20263,PROTESTANT,2000
+Mexico,Chiapas,721096,PROTESTANT,2000
+Mexico,Chihuahua,240654,PROTESTANT,2000
+Mexico,Ciudad de México,458946,PROTESTANT,2000
+Mexico,Durango,73123,PROTESTANT,2000
+Mexico,Guanajuato,87993,PROTESTANT,2000
+Mexico,Guerrero,181344,PROTESTANT,2000
+Mexico,Hidalgo,137423,PROTESTANT,2000
+Mexico,Jalisco,165489,PROTESTANT,2000
+Mexico,México,691602,PROTESTANT,2000
+Mexico,Michoacán de Ocampo,106944,PROTESTANT,2000
+Mexico,Morelos,147865,PROTESTANT,2000
+Mexico,Nayarit,36642,PROTESTANT,2000
+Mexico,Nuevo León,282943,PROTESTANT,2000
+Mexico,Oaxaca,311349,PROTESTANT,2000
+Mexico,Puebla,269290,PROTESTANT,2000
+Mexico,Querétaro,36617,PROTESTANT,2000
+Mexico,Quintana Roo,121297,PROTESTANT,2000
+Mexico,San Luis Potosí,116478,PROTESTANT,2000
+Mexico,Sinaloa,112820,PROTESTANT,2000
+Mexico,Sonora,131781,PROTESTANT,2000
+Mexico,Tabasco,311195,PROTESTANT,2000
+Mexico,Tamaulipas,272406,PROTESTANT,2000
+Mexico,Tlaxcala,40194,PROTESTANT,2000
+Mexico,Veracruz de Ignacio de la Llave,636439,PROTESTANT,2000
+Mexico,Yucatán,169516,PROTESTANT,2000
+Mexico,Zacatecas,35317,PROTESTANT,2000
+Mexico,National,2982929,NONE,2000
+Mexico,Aguascalientes,6723,NONE,2000
+Mexico,Baja California,123743,NONE,2000
+Mexico,Baja California Sur,13632,NONE,2000
+Mexico,Campeche,59973,NONE,2000
+Mexico,Coahuila de Zaragoza,76574,NONE,2000
+Mexico,Colima,8096,NONE,2000
+Mexico,Chiapas,429803,NONE,2000
+Mexico,Chihuahua,133482,NONE,2000
+Mexico,Ciudad de México,223066,NONE,2000
+Mexico,Durango,36730,NONE,2000
+Mexico,Guanajuato,27697,NONE,2000
+Mexico,Guerrero,81366,NONE,2000
+Mexico,Hidalgo,31147,NONE,2000
+Mexico,Jalisco,49825,NONE,2000
+Mexico,México,197693,NONE,2000
+Mexico,Michoacán de Ocampo,46358,NONE,2000
+Mexico,Morelos,57461,NONE,2000
+Mexico,Nayarit,23607,NONE,2000
+Mexico,Nuevo León,94309,NONE,2000
+Mexico,Oaxaca,120150,NONE,2000
+Mexico,Puebla,60085,NONE,2000
+Mexico,Querétaro,11349,NONE,2000
+Mexico,Quintana Roo,72588,NONE,2000
+Mexico,San Luis Potosí,30705,NONE,2000
+Mexico,Sinaloa,159628,NONE,2000
+Mexico,Sonora,85207,NONE,2000
+Mexico,Tabasco,166993,NONE,2000
+Mexico,Tamaulipas,118986,NONE,2000
+Mexico,Tlaxcala,8174,NONE,2000
+Mexico,Veracruz de Ignacio de la Llave,363951,NONE,2000
+Mexico,Yucatán,50841,NONE,2000
+Mexico,Zacatecas,12987,NONE,2000
+Mexico,National,84217138,CATOLIC,2010
+Mexico,Aguascalientes,987501,CATOLIC,2010
+Mexico,Baja California,2067835,CATOLIC,2010
+Mexico,Baja California Sur,468981,CATOLIC,2010
+Mexico,Campeche,473756,CATOLIC,2010
+Mexico,Coahuila de Zaragoza,2002903,CATOLIC,2010
+Mexico,Colima,520240,CATOLIC,2010
+Mexico,Chiapas,2500222,CATOLIC,2010
+Mexico,Chihuahua,2356617,CATOLIC,2010
+Mexico,Ciudad de México,6781382,CATOLIC,2010
+Mexico,Durango,1263084,CATOLIC,2010
+Mexico,Guanajuato,4627793,CATOLIC,2010
+Mexico,Guerrero,2622501,CATOLIC,2010
+Mexico,Hidalgo,2092764,CATOLIC,2010
+Mexico,Jalisco,6113846,CATOLIC,2010
+Mexico,México,11726661,CATOLIC,2010
+Mexico,Michoacán de Ocampo,3588518,CATOLIC,2010
+Mexico,Morelos,1264254,CATOLIC,2010
+Mexico,Nayarit,863925,CATOLIC,2010
+Mexico,Nuevo León,3491916,CATOLIC,2010
+Mexico,Oaxaca,2769598,CATOLIC,2010
+Mexico,Puebla,4591954,CATOLIC,2010
+Mexico,Querétaro,1513327,CATOLIC,2010
+Mexico,Quintana Roo,758378,CATOLIC,2010
+Mexico,San Luis Potosí,2077738,CATOLIC,2010
+Mexico,Sinaloa,2111461,CATOLIC,2010
+Mexico,Sonora,1986732,CATOLIC,2010
+Mexico,Tabasco,1305293,CATOLIC,2010
+Mexico,Tamaulipas,2163331,CATOLIC,2010
+Mexico,Tlaxcala,955974,CATOLIC,2010
+Mexico,Veracruz de Ignacio de la Llave,5497216,CATOLIC,2010
+Mexico,Yucatán,1420611,CATOLIC,2010
+Mexico,Zacatecas,1250826,CATOLIC,2010
+Mexico,National,10076056,PROTESTANT,2010
+Mexico,Aguascalientes,47813,PROTESTANT,2010
+Mexico,Baja California,439238,PROTESTANT,2010
+Mexico,Baja California Sur,57138,PROTESTANT,2010
+Mexico,Campeche,156876,PROTESTANT,2010
+Mexico,Coahuila de Zaragoza,299481,PROTESTANT,2010
+Mexico,Colima,41325,PROTESTANT,2010
+Mexico,Chiapas,1163097,PROTESTANT,2010
+Mexico,Chihuahua,356940,PROTESTANT,2010
+Mexico,Ciudad de México,595395,PROTESTANT,2010
+Mexico,Durango,118040,PROTESTANT,2010
+Mexico,Guanajuato,176511,PROTESTANT,2010
+Mexico,Guerrero,267579,PROTESTANT,2010
+Mexico,Hidalgo,204793,PROTESTANT,2010
+Mexico,Jalisco,296924,PROTESTANT,2010
+Mexico,México,1040323,PROTESTANT,2010
+Mexico,Michoacán de Ocampo,176342,PROTESTANT,2010
+Mexico,Morelos,211806,PROTESTANT,2010
+Mexico,Nayarit,69262,PROTESTANT,2010
+Mexico,Nuevo León,439722,PROTESTANT,2010
+Mexico,Oaxaca,457333,PROTESTANT,2010
+Mexico,Puebla,398371,PROTESTANT,2010
+Mexico,Querétaro,73357,PROTESTANT,2010
+Mexico,Quintana Roo,229244,PROTESTANT,2010
+Mexico,San Luis Potosí,162010,PROTESTANT,2010
+Mexico,Sinaloa,189378,PROTESTANT,2010
+Mexico,Sonora,236135,PROTESTANT,2010
+Mexico,Tabasco,483961,PROTESTANT,2010
+Mexico,Tamaulipas,436994,PROTESTANT,2010
+Mexico,Tlaxcala,62549,PROTESTANT,2010
+Mexico,Veracruz de Ignacio de la Llave,885953,PROTESTANT,2010
+Mexico,Yucatán,250000,PROTESTANT,2010
+Mexico,Zacatecas,52166,PROTESTANT,2010
+Mexico,National,4660692,NONE,2010
+Mexico,Aguascalientes,19242,NONE,2010
+Mexico,Baja California,277525,NONE,2010
+Mexico,Baja California Sur,35130,NONE,2010
+Mexico,Campeche,83366,NONE,2010
+Mexico,Coahuila de Zaragoza,132703,NONE,2010
+Mexico,Colima,18689,NONE,2010
+Mexico,Chiapas,499178,NONE,2010
+Mexico,Chihuahua,221007,NONE,2010
+Mexico,Ciudad de México,447935,NONE,2010
+Mexico,Durango,50889,NONE,2010
+Mexico,Guanajuato,69288,NONE,2010
+Mexico,Guerrero,87312,NONE,2010
+Mexico,Hidalgo,55024,NONE,2010
+Mexico,Jalisco,113957,NONE,2010
+Mexico,México,434175,NONE,2010
+Mexico,Michoacán de Ocampo,74836,NONE,2010
+Mexico,Morelos,96831,NONE,2010
+Mexico,Nayarit,32708,NONE,2010
+Mexico,Nuevo León,170476,NONE,2010
+Mexico,Oaxaca,146741,NONE,2010
+Mexico,Puebla,93214,NONE,2010
+Mexico,Querétaro,34716,NONE,2010
+Mexico,Quintana Roo,156219,NONE,2010
+Mexico,San Luis Potosí,52404,NONE,2010
+Mexico,Sinaloa,173082,NONE,2010
+Mexico,Sonora,152470,NONE,2010
+Mexico,Tabasco,185363,NONE,2010
+Mexico,Tamaulipas,192282,NONE,2010
+Mexico,Tlaxcala,13427,NONE,2010
+Mexico,Veracruz de Ignacio de la Llave,439670,NONE,2010
+Mexico,Yucatán,84514,NONE,2010
+Mexico,Zacatecas,16319,NONE,2010
+Mexico,National,90224559,CATOLIC,2020
+Mexico,Aguascalientes,1159832,CATOLIC,2020
+Mexico,Baja California,2187369,CATOLIC,2020
+Mexico,Baja California Sur,544008,CATOLIC,2020
+Mexico,Campeche,515526,CATOLIC,2020
+Mexico,Coahuila de Zaragoza,2157764,CATOLIC,2020
+Mexico,Colima,567548,CATOLIC,2020
+Mexico,Chiapas,2704411,CATOLIC,2020
+Mexico,Chihuahua,2514110,CATOLIC,2020
+Mexico,Ciudad de México,6634532,CATOLIC,2020
+Mexico,Durango,1383653,CATOLIC,2020
+Mexico,Guanajuato,5107664,CATOLIC,2020
+Mexico,Guerrero,2576502,CATOLIC,2020
+Mexico,Hidalgo,2285681,CATOLIC,2020
+Mexico,Jalisco,6843249,CATOLIC,2020
+Mexico,México,12369271,CATOLIC,2020
+Mexico,Michoacán de Ocampo,3837269,CATOLIC,2020
+Mexico,Morelos,1298610,CATOLIC,2020
+Mexico,Nayarit,944500,CATOLIC,2020
+Mexico,Nuevo León,4152646,CATOLIC,2020
+Mexico,Oaxaca,2855785,CATOLIC,2020
+Mexico,Puebla,5057571,CATOLIC,2020
+Mexico,Querétaro,1861516,CATOLIC,2020
+Mexico,Quintana Roo,942844,CATOLIC,2020
+Mexico,San Luis Potosí,2218856,CATOLIC,2020
+Mexico,Sinaloa,2196411,CATOLIC,2020
+Mexico,Sonora,2094915,CATOLIC,2020
+Mexico,Tabasco,1372585,CATOLIC,2020
+Mexico,Tamaulipas,2223753,CATOLIC,2020
+Mexico,Tlaxcala,1045600,CATOLIC,2020
+Mexico,Veracruz de Ignacio de la Llave,5615966,CATOLIC,2020
+Mexico,Yucatán,1597707,CATOLIC,2020
+Mexico,Zacatecas,1356905,CATOLIC,2020
+Mexico,National,16118762,PROTESTANT,2020
+Mexico,Aguascalientes,80099,PROTESTANT,2020
+Mexico,Baja California,651391,PROTESTANT,2020
+Mexico,Baja California Sur,100304,PROTESTANT,2020
+Mexico,Campeche,212258,PROTESTANT,2020
+Mexico,Coahuila de Zaragoza,401342,PROTESTANT,2020
+Mexico,Colima,60170,PROTESTANT,2020
+Mexico,Chiapas,1632664,PROTESTANT,2020
+Mexico,Chihuahua,469680,PROTESTANT,2020
+Mexico,Ciudad de México,1125620,PROTESTANT,2020
+Mexico,Durango,165875,PROTESTANT,2020
+Mexico,Guanajuato,309973,PROTESTANT,2020
+Mexico,Guerrero,477604,PROTESTANT,2020
+Mexico,Hidalgo,426077,PROTESTANT,2020
+Mexico,Jalisco,417236,PROTESTANT,2020
+Mexico,México,2260476,PROTESTANT,2020
+Mexico,Michoacán de Ocampo,305106,PROTESTANT,2020
+Mexico,Morelos,374786,PROTESTANT,2020
+Mexico,Nayarit,101957,PROTESTANT,2020
+Mexico,Nuevo León,682152,PROTESTANT,2020
+Mexico,Oaxaca,685101,PROTESTANT,2020
+Mexico,Puebla,724497,PROTESTANT,2020
+Mexico,Querétaro,171194,PROTESTANT,2020
+Mexico,Quintana Roo,376031,PROTESTANT,2020
+Mexico,San Luis Potosí,253567,PROTESTANT,2020
+Mexico,Sinaloa,256629,PROTESTANT,2020
+Mexico,Sonora,323591,PROTESTANT,2020
+Mexico,Tabasco,603819,PROTESTANT,2020
+Mexico,Tamaulipas,635064,PROTESTANT,2020
+Mexico,Tlaxcala,134684,PROTESTANT,2020
+Mexico,Veracruz de Ignacio de la Llave,1265005,PROTESTANT,2020
+Mexico,Yucatán,358951,PROTESTANT,2020
+Mexico,Zacatecas,75859,PROTESTANT,2020
+Mexico,National,9156555,NONE,2020
+Mexico,Aguascalientes,57920,NONE,2020
+Mexico,Baja California,644597,NONE,2020
+Mexico,Baja California Sur,86571,NONE,2020
+Mexico,Campeche,116478,NONE,2020
+Mexico,Coahuila de Zaragoza,298339,NONE,2020
+Mexico,Colima,48645,NONE,2020
+Mexico,Chiapas,599917,NONE,2020
+Mexico,Chihuahua,450958,NONE,2020
+Mexico,Ciudad de México,945422,NONE,2020
+Mexico,Durango,109984,NONE,2020
+Mexico,Guanajuato,191293,NONE,2020
+Mexico,Guerrero,133954,NONE,2020
+Mexico,Hidalgo,126896,NONE,2020
+Mexico,Jalisco,353735,NONE,2020
+Mexico,México,1032529,NONE,2020
+Mexico,Michoacán de Ocampo,165627,NONE,2020
+Mexico,Morelos,149529,NONE,2020
+Mexico,Nayarit,82742,NONE,2020
+Mexico,Nuevo León,461618,NONE,2020
+Mexico,Oaxaca,218579,NONE,2020
+Mexico,Puebla,211119,NONE,2020
+Mexico,Querétaro,137921,NONE,2020
+Mexico,Quintana Roo,365858,NONE,2020
+Mexico,San Luis Potosí,113148,NONE,2020
+Mexico,Sinaloa,332150,NONE,2020
+Mexico,Sonora,301072,NONE,2020
+Mexico,Tabasco,215386,NONE,2020
+Mexico,Tamaulipas,386253,NONE,2020
+Mexico,Tlaxcala,29972,NONE,2020
+Mexico,Veracruz de Ignacio de la Llave,572345,NONE,2020
+Mexico,Yucatán,181309,NONE,2020
+Mexico,Zacatecas,34689,NONE,2020
