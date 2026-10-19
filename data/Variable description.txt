@@ -1,1 +1,16 @@
 
+# Data structure description
+The project is structured into three tables:
+ReligionBrazil
+ReligionMexico
+Forecasts
+
+# Variable description
+Each table has the following variables:
+COUNTRY - Brazil or Mexico
+STATE - Name of the province (or national)
+TOTAL - count of individuals
+RELIGION - Catholic, Protestant, or none
+YEAR - the year for the data
+
+
